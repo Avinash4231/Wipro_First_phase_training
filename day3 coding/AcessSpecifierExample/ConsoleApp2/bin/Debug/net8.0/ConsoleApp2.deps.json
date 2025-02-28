@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ConsoleApp2/1.0.0": {
+        "dependencies": {
+          "AcessSpecifierExample": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleApp2.dll": {}
+        }
+      },
+      "AcessSpecifierExample/1.0.0": {
+        "runtime": {
+          "AcessSpecifierExample.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcessSpecifierExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

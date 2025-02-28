@@ -1,0 +1,11 @@
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\bin\Debug\net8.0\AcessSpecifierExample.deps.json
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\bin\Debug\net8.0\AcessSpecifierExample.dll
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\bin\Debug\net8.0\AcessSpecifierExample.pdb
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\obj\Debug\net8.0\AcessSpecifierExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\obj\Debug\net8.0\AcessSpecifierExample.AssemblyInfoInputs.cache
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\obj\Debug\net8.0\AcessSpecifierExample.AssemblyInfo.cs
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\obj\Debug\net8.0\AcessSpecifierExample.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\obj\Debug\net8.0\AcessSpecifierExample.dll
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\obj\Debug\net8.0\refint\AcessSpecifierExample.dll
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\obj\Debug\net8.0\AcessSpecifierExample.pdb
+D:\wipro project\dotnet training session\demo project\day3 coding\AcessSpecifierExample\AcessSpecifierExample\obj\Debug\net8.0\ref\AcessSpecifierExample.dll
