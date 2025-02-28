@@ -1,0 +1,7 @@
+D:\wipro project\dotnet training session\demo project\day6 coding\FileStreamExample\FileStreamExample\bin\Debug\FileStreamExample.exe.config
+D:\wipro project\dotnet training session\demo project\day6 coding\FileStreamExample\FileStreamExample\bin\Debug\FileStreamExample.exe
+D:\wipro project\dotnet training session\demo project\day6 coding\FileStreamExample\FileStreamExample\bin\Debug\FileStreamExample.pdb
+D:\wipro project\dotnet training session\demo project\day6 coding\FileStreamExample\FileStreamExample\obj\Debug\FileStreamExample.csproj.AssemblyReference.cache
+D:\wipro project\dotnet training session\demo project\day6 coding\FileStreamExample\FileStreamExample\obj\Debug\FileStreamExample.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day6 coding\FileStreamExample\FileStreamExample\obj\Debug\FileStreamExample.exe
+D:\wipro project\dotnet training session\demo project\day6 coding\FileStreamExample\FileStreamExample\obj\Debug\FileStreamExample.pdb
