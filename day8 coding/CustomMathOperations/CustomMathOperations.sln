@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMathOperations", "CustomMathOperations\CustomMathOperations.csproj", "{C1FFBF1D-FFBD-42E3-93BF-CF5D3ED462CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSTesting", "MSTesting\MSTesting.csproj", "{5C15B559-CDCB-4DAF-BEA5-9033FADB0EFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTesting", "NUnitTesting\NUnitTesting.csproj", "{488593E1-6481-42CB-AAC6-C7708C7487EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1FFBF1D-FFBD-42E3-93BF-CF5D3ED462CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1FFBF1D-FFBD-42E3-93BF-CF5D3ED462CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1FFBF1D-FFBD-42E3-93BF-CF5D3ED462CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1FFBF1D-FFBD-42E3-93BF-CF5D3ED462CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C15B559-CDCB-4DAF-BEA5-9033FADB0EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C15B559-CDCB-4DAF-BEA5-9033FADB0EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C15B559-CDCB-4DAF-BEA5-9033FADB0EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C15B559-CDCB-4DAF-BEA5-9033FADB0EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{488593E1-6481-42CB-AAC6-C7708C7487EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488593E1-6481-42CB-AAC6-C7708C7487EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488593E1-6481-42CB-AAC6-C7708C7487EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488593E1-6481-42CB-AAC6-C7708C7487EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
