@@ -1,0 +1,14 @@
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\bin\Debug\net9.0\oops.exe
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\bin\Debug\net9.0\oops.deps.json
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\bin\Debug\net9.0\oops.runtimeconfig.json
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\bin\Debug\net9.0\oops.dll
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\bin\Debug\net9.0\oops.pdb
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\obj\Debug\net9.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\obj\Debug\net9.0\oops.AssemblyInfoInputs.cache
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\obj\Debug\net9.0\oops.AssemblyInfo.cs
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\obj\Debug\net9.0\oops.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\obj\Debug\net9.0\oops.dll
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\obj\Debug\net9.0\refint\oops.dll
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\obj\Debug\net9.0\oops.pdb
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\obj\Debug\net9.0\oops.genruntimeconfig.cache
+D:\wipro project\dotnet training session\demo project\day3 coding\oops\obj\Debug\net9.0\ref\oops.dll
