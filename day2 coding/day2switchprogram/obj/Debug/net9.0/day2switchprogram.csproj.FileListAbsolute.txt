@@ -1,0 +1,14 @@
+D:\wipro project\dotnet training session\demo project\day2switchprogram\bin\Debug\net9.0\day2switchprogram.exe
+D:\wipro project\dotnet training session\demo project\day2switchprogram\bin\Debug\net9.0\day2switchprogram.deps.json
+D:\wipro project\dotnet training session\demo project\day2switchprogram\bin\Debug\net9.0\day2switchprogram.runtimeconfig.json
+D:\wipro project\dotnet training session\demo project\day2switchprogram\bin\Debug\net9.0\day2switchprogram.dll
+D:\wipro project\dotnet training session\demo project\day2switchprogram\bin\Debug\net9.0\day2switchprogram.pdb
+D:\wipro project\dotnet training session\demo project\day2switchprogram\obj\Debug\net9.0\day2switchprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro project\dotnet training session\demo project\day2switchprogram\obj\Debug\net9.0\day2switchprogram.AssemblyInfoInputs.cache
+D:\wipro project\dotnet training session\demo project\day2switchprogram\obj\Debug\net9.0\day2switchprogram.AssemblyInfo.cs
+D:\wipro project\dotnet training session\demo project\day2switchprogram\obj\Debug\net9.0\day2switchprogram.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day2switchprogram\obj\Debug\net9.0\day2switchprogram.dll
+D:\wipro project\dotnet training session\demo project\day2switchprogram\obj\Debug\net9.0\refint\day2switchprogram.dll
+D:\wipro project\dotnet training session\demo project\day2switchprogram\obj\Debug\net9.0\day2switchprogram.pdb
+D:\wipro project\dotnet training session\demo project\day2switchprogram\obj\Debug\net9.0\day2switchprogram.genruntimeconfig.cache
+D:\wipro project\dotnet training session\demo project\day2switchprogram\obj\Debug\net9.0\ref\day2switchprogram.dll
