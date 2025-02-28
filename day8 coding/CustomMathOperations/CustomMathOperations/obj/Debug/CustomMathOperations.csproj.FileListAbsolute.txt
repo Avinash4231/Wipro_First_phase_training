@@ -1,0 +1,6 @@
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\CustomMathOperations\bin\Debug\CustomMathOperations.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\CustomMathOperations\bin\Debug\CustomMathOperations.pdb
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\CustomMathOperations\obj\Debug\CustomMathOperations.csproj.AssemblyReference.cache
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\CustomMathOperations\obj\Debug\CustomMathOperations.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\CustomMathOperations\obj\Debug\CustomMathOperations.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\CustomMathOperations\obj\Debug\CustomMathOperations.pdb

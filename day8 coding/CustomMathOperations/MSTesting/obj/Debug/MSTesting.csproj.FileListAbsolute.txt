@@ -1,0 +1,17 @@
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\MSTesting.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\MSTesting.pdb
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\CustomMathOperations.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\CustomMathOperations.pdb
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\obj\Debug\MSTesting.csproj.AssemblyReference.cache
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\obj\Debug\MSTesting.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\obj\Debug\MSTesting.csproj.Up2Date
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\obj\Debug\MSTesting.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\CustomMathOperations\MSTesting\obj\Debug\MSTesting.pdb
