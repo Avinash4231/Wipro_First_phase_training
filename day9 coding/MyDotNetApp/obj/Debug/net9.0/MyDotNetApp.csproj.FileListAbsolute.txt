@@ -1,0 +1,5 @@
+D:\wipro project\dotnet training session\demo project\day9 coding\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro project\dotnet training session\demo project\day9 coding\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.AssemblyInfoInputs.cache
+D:\wipro project\dotnet training session\demo project\day9 coding\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.AssemblyInfo.cs
+D:\wipro project\dotnet training session\demo project\day9 coding\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day9 coding\MyDotNetApp\obj\Debug\net9.0\MyDotNetApp.MvcApplicationPartsAssemblyInfo.cache

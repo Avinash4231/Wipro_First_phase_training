@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\SecurityExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F75968D-D123-4F88-B3E2-551BE9C94AEA}|SecurityExample\\SecurityExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day10 coding\\securityexample\\securityexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F75968D-D123-4F88-B3E2-551BE9C94AEA}|SecurityExample\\SecurityExample.csproj|solutionrelative:securityexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F75968D-D123-4F88-B3E2-551BE9C94AEA}|SecurityExample\\SecurityExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day10 coding\\securityexample\\securityexample\\dataencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F75968D-D123-4F88-B3E2-551BE9C94AEA}|SecurityExample\\SecurityExample.csproj|solutionrelative:securityexample\\dataencryption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F75968D-D123-4F88-B3E2-551BE9C94AEA}|SecurityExample\\SecurityExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day10 coding\\securityexample\\securityexample\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F75968D-D123-4F88-B3E2-551BE9C94AEA}|SecurityExample\\SecurityExample.csproj|solutionrelative:securityexample\\userauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataEncryption.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\SecurityExample\\SecurityExample\\DataEncryption.cs",
+              "RelativeDocumentMoniker": "SecurityExample\\DataEncryption.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\SecurityExample\\SecurityExample\\DataEncryption.cs",
+              "RelativeToolTip": "SecurityExample\\DataEncryption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:32:19.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAuthentication.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\SecurityExample\\SecurityExample\\UserAuthentication.cs",
+              "RelativeDocumentMoniker": "SecurityExample\\UserAuthentication.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\SecurityExample\\SecurityExample\\UserAuthentication.cs",
+              "RelativeToolTip": "SecurityExample\\UserAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:31:36.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\SecurityExample\\SecurityExample\\Program.cs",
+              "RelativeDocumentMoniker": "SecurityExample\\Program.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\SecurityExample\\SecurityExample\\Program.cs",
+              "RelativeToolTip": "SecurityExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:02:00.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

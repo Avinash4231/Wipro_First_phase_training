@@ -1,0 +1,11 @@
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\wipro project\dotnet training session\demo project\day8 coding\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll

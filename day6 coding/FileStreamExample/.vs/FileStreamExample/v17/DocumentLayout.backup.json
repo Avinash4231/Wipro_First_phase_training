@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day6 coding\\filestreamexample\\filestreamexample\\cemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|solutionrelative:filestreamexample\\cemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day6 coding\\filestreamexample\\filestreamexample\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|solutionrelative:filestreamexample\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day6 coding\\filestreamexample\\filestreamexample\\hrinterfaceproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|solutionrelative:filestreamexample\\hrinterfaceproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day6 coding\\filestreamexample\\filestreamexample\\exceptionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|solutionrelative:filestreamexample\\exceptionexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day6 coding\\filestreamexample\\filestreamexample\\pemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|solutionrelative:filestreamexample\\pemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day6 coding\\filestreamexample\\filestreamexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|solutionrelative:filestreamexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day6 coding\\filestreamexample\\filestreamexample\\isalarydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|solutionrelative:filestreamexample\\isalarydetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day6 coding\\filestreamexample\\filestreamexample\\apersonaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|solutionrelative:filestreamexample\\apersonaldetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day6 coding\\filestreamexample\\filestreamexample\\customdefinedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065329C4-14CD-435C-870B-2E77672B3811}|FileStreamExample\\FileStreamExample.csproj|solutionrelative:filestreamexample\\customdefinedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CEmp.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\CEmp.cs",
+              "RelativeDocumentMoniker": "FileStreamExample\\CEmp.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\CEmp.cs",
+              "RelativeToolTip": "FileStreamExample\\CEmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:19:47.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PEmp.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\PEmp.cs",
+              "RelativeDocumentMoniker": "FileStreamExample\\PEmp.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\PEmp.cs",
+              "RelativeToolTip": "FileStreamExample\\PEmp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:19:15.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HR.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\HR.cs",
+              "RelativeDocumentMoniker": "FileStreamExample\\HR.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\HR.cs",
+              "RelativeToolTip": "FileStreamExample\\HR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:18:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "APersonalDetails.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\APersonalDetails.cs",
+              "RelativeDocumentMoniker": "FileStreamExample\\APersonalDetails.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\APersonalDetails.cs",
+              "RelativeToolTip": "FileStreamExample\\APersonalDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:17:45.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISalaryDetails.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\ISalaryDetails.cs",
+              "RelativeDocumentMoniker": "FileStreamExample\\ISalaryDetails.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\ISalaryDetails.cs",
+              "RelativeToolTip": "FileStreamExample\\ISalaryDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:16:44.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HRInterfaceProblem.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\HRInterfaceProblem.cs",
+              "RelativeDocumentMoniker": "FileStreamExample\\HRInterfaceProblem.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\HRInterfaceProblem.cs",
+              "RelativeToolTip": "FileStreamExample\\HRInterfaceProblem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T10:16:12.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionExample.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\ExceptionExample.cs",
+              "RelativeDocumentMoniker": "FileStreamExample\\ExceptionExample.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\ExceptionExample.cs",
+              "RelativeToolTip": "FileStreamExample\\ExceptionExample.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:36:49.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\Program.cs",
+              "RelativeDocumentMoniker": "FileStreamExample\\Program.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\Program.cs",
+              "RelativeToolTip": "FileStreamExample\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvysAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T04:40:33.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomDefinedException.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\CustomDefinedException.cs",
+              "RelativeDocumentMoniker": "FileStreamExample\\CustomDefinedException.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day6 coding\\FileStreamExample\\FileStreamExample\\CustomDefinedException.cs",
+              "RelativeToolTip": "FileStreamExample\\CustomDefinedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:20:38.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\DemoRazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C72D5BE-C28F-421D-A6D7-88DE249F091E}|DemoRazor\\DemoRazor.csproj|d:\\wipro project\\dotnet training session\\demo project\\day9 coding\\demorazor\\demorazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C72D5BE-C28F-421D-A6D7-88DE249F091E}|DemoRazor\\DemoRazor.csproj|solutionrelative:demorazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\DemoRazor\\DemoRazor\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoRazor\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\DemoRazor\\DemoRazor\\Pages\\Index.cshtml*",
+              "RelativeToolTip": "DemoRazor\\Pages\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T07:22:15.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

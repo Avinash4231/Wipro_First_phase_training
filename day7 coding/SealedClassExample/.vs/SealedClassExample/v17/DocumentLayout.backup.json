@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day7 coding\\sealedclassexample\\sealedclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|solutionrelative:sealedclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day7 coding\\sealedclassexample\\sealedclassexample\\inheritanceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|solutionrelative:sealedclassexample\\inheritanceexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day7 coding\\sealedclassexample\\sealedclassexample\\delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|solutionrelative:sealedclassexample\\delegateexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day7 coding\\sealedclassexample\\sealedclassexample\\moreexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|solutionrelative:sealedclassexample\\moreexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day7 coding\\sealedclassexample\\sealedclassexample\\indexerexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|solutionrelative:sealedclassexample\\indexerexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day7 coding\\sealedclassexample\\sealedclassexample\\traditionalpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|solutionrelative:sealedclassexample\\traditionalpattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day7 coding\\sealedclassexample\\sealedclassexample\\stringcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|solutionrelative:sealedclassexample\\stringcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day7 coding\\sealedclassexample\\sealedclassexample\\oldservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|solutionrelative:sealedclassexample\\oldservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day7 coding\\sealedclassexample\\sealedclassexample\\outparameterexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|solutionrelative:sealedclassexample\\outparameterexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day7 coding\\sealedclassexample\\sealedclassexample\\newservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{010624A3-2FEF-4174-853A-7D800B55E630}|SealedClassExample\\SealedClassExample.csproj|solutionrelative:sealedclassexample\\newservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InheritanceExample.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\InheritanceExample.cs",
+              "RelativeDocumentMoniker": "SealedClassExample\\InheritanceExample.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\InheritanceExample.cs*",
+              "RelativeToolTip": "SealedClassExample\\InheritanceExample.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswDIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:51:06.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DelegateExample.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\DelegateExample.cs",
+              "RelativeDocumentMoniker": "SealedClassExample\\DelegateExample.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\DelegateExample.cs",
+              "RelativeToolTip": "SealedClassExample\\DelegateExample.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:27:58.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "SealedClassExample\\Program.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\Program.cs*",
+              "RelativeToolTip": "SealedClassExample\\Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T03:55:37.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoreExample.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\MoreExample.cs",
+              "RelativeDocumentMoniker": "SealedClassExample\\MoreExample.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\MoreExample.cs",
+              "RelativeToolTip": "SealedClassExample\\MoreExample.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAApwEUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T08:48:19.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndexerExample.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\IndexerExample.cs",
+              "RelativeDocumentMoniker": "SealedClassExample\\IndexerExample.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\IndexerExample.cs",
+              "RelativeToolTip": "SealedClassExample\\IndexerExample.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAwwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:44:55.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringCount.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\StringCount.cs",
+              "RelativeDocumentMoniker": "SealedClassExample\\StringCount.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\StringCount.cs",
+              "RelativeToolTip": "SealedClassExample\\StringCount.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:17:44.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TraditionalPattern.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\TraditionalPattern.cs",
+              "RelativeDocumentMoniker": "SealedClassExample\\TraditionalPattern.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\TraditionalPattern.cs",
+              "RelativeToolTip": "SealedClassExample\\TraditionalPattern.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T05:39:38.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OldService.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\OldService.cs",
+              "RelativeDocumentMoniker": "SealedClassExample\\OldService.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\OldService.cs",
+              "RelativeToolTip": "SealedClassExample\\OldService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:02:17.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OutParameterExample.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\OutParameterExample.cs",
+              "RelativeDocumentMoniker": "SealedClassExample\\OutParameterExample.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\OutParameterExample.cs",
+              "RelativeToolTip": "SealedClassExample\\OutParameterExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:41:59.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NewService.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\NewService.cs",
+              "RelativeDocumentMoniker": "SealedClassExample\\NewService.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day7 coding\\SealedClassExample\\SealedClassExample\\NewService.cs",
+              "RelativeToolTip": "SealedClassExample\\NewService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T04:01:23.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\bin\Debug\net8.0\Day10Assignment.deps.json
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\bin\Debug\net8.0\Day10Assignment.dll
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\bin\Debug\net8.0\Day10Assignment.pdb
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\obj\Debug\net8.0\Day10Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\obj\Debug\net8.0\Day10Assignment.AssemblyInfoInputs.cache
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\obj\Debug\net8.0\Day10Assignment.AssemblyInfo.cs
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\obj\Debug\net8.0\Day10Assignment.csproj.CoreCompileInputs.cache
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\obj\Debug\net8.0\Day10Assignment.dll
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\obj\Debug\net8.0\refint\Day10Assignment.dll
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\obj\Debug\net8.0\Day10Assignment.pdb
+D:\wipro project\dotnet training session\demo project\day10 coding\Day10Assignment\Day10Assignment\obj\Debug\net8.0\ref\Day10Assignment.dll

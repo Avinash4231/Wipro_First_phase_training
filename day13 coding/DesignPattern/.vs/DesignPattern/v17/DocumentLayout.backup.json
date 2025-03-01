@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|d:\\wipro project\\dotnet training session\\demo project\\day12 coding\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|d:\\wipro project\\dotnet training session\\demo project\\day12 coding\\designpattern\\designpattern\\mobilefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\mobilefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|d:\\wipro project\\dotnet training session\\demo project\\day12 coding\\designpattern\\designpattern\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\mainprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|d:\\wipro project\\dotnet training session\\demo project\\day12 coding\\designpattern\\designpattern\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|d:\\wipro project\\dotnet training session\\demo project\\day12 coding\\designpattern\\designpattern\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|d:\\wipro project\\dotnet training session\\demo project\\day12 coding\\designpattern\\designpattern\\imobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\imobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|d:\\wipro project\\dotnet training session\\demo project\\day12 coding\\designpattern\\designpattern\\buildermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\buildermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|d:\\wipro project\\dotnet training session\\demo project\\day12 coding\\designpattern\\designpattern\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2629F2-1BF6-4F39-8F98-C4B4502E3E71}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MobileFActory.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\MobileFActory.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\MobileFActory.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\MobileFActory.cs",
+              "RelativeToolTip": "DesignPattern\\MobileFActory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:33:47.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Program.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeToolTip": "DesignPattern\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T04:07:48.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainProgram.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\MainProgram.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\MainProgram.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\MainProgram.cs",
+              "RelativeToolTip": "DesignPattern\\MainProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:33:25.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\MainClass.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\MainClass.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\MainClass.cs*",
+              "RelativeToolTip": "DesignPattern\\MainClass.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T04:12:20.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\Laptop.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Laptop.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\Laptop.cs*",
+              "RelativeToolTip": "DesignPattern\\Laptop.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:54:03.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMobile.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\IMobile.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\IMobile.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\IMobile.cs",
+              "RelativeToolTip": "DesignPattern\\IMobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:30:34.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuilderMain.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\BuilderMain.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\BuilderMain.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\BuilderMain.cs*",
+              "RelativeToolTip": "DesignPattern\\BuilderMain.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:02:17.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\Builder.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Builder.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day12 coding\\DesignPattern\\DesignPattern\\Builder.cs*",
+              "RelativeToolTip": "DesignPattern\\Builder.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T05:53:33.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

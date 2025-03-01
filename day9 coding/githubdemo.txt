@@ -1,0 +1,17 @@
+git init ----> initialise the local git repo in the pc
+
+git remote add origin https://github.com/VanshAgarwal22/WIPRO_BATCH.git-->add the the remote url of your git repo
+
+git add . -->add all  the files in your local  repo
+
+git show --> show the status
+
+git commit -m "your message"---> it will  add all the files from local to  the staging area
+
+git push origin main  --> it will  push all the file from staging area to  the main branch
+
+git remote remove (remote name : origin)--> it will remove the remote repo i.e. origin
+
+git pull origin main--> if you want to  pull the file from the local  to  the repo branch.
+
+git restore --staged <file>..." to unstage--> 

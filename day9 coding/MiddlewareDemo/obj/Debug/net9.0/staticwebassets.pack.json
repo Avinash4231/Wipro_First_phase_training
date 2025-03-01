@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MiddlewareDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MiddlewareDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MiddlewareDemo.props",
+      "PackagePath": "build\\MiddlewareDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MiddlewareDemo.props",
+      "PackagePath": "buildMultiTargeting\\MiddlewareDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MiddlewareDemo.props",
+      "PackagePath": "buildTransitive\\MiddlewareDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

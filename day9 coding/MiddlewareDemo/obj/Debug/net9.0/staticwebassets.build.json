@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "WeG5U16tSu0keegeD2eA6udD0Y/m+6Klt9uOfbHfRtk=",
+  "Source": "MiddlewareDemo",
+  "BasePath": "_content/MiddlewareDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MiddlewareDemo\\wwwroot",
+      "Source": "MiddlewareDemo",
+      "ContentRoot": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\",
+      "BasePath": "_content/MiddlewareDemo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\7rao0jc5l4-6udw57gf2v.gz",
+      "SourceId": "MiddlewareDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiddlewareDemo",
+      "RelativePath": "script#[.{fingerprint=6udw57gf2v}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "iygyjk7epo",
+      "Integrity": "Wj0uCXvaooUciYWTRg/7Woy6HjQvAp2QbSnWnlHPons=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\ku9vxkjhzf-sbzmo7rd06.gz",
+      "SourceId": "MiddlewareDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiddlewareDemo",
+      "RelativePath": "index#[.{fingerprint=sbzmo7rd06}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ya48zftip4",
+      "Integrity": "NknrocfV5pv5k1SWPdQxKrqAKBn+vbcF1lVcQTa7RmA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\z2ta87ue5o-wz1ysskd2f.gz",
+      "SourceId": "MiddlewareDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MiddlewareDemo",
+      "RelativePath": "styles#[.{fingerprint=wz1ysskd2f}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dvrxizzsq6",
+      "Integrity": "pwb2sUfquE7iR+Fj2gXu0i/FoKeq1U99Wq2rfQroejg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\index.html",
+      "SourceId": "MiddlewareDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\",
+      "BasePath": "_content/MiddlewareDemo",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sbzmo7rd06",
+      "Integrity": "qB9GtXjOkiTXZyA8vFAqI2zwHwh31QIw2UINkuq/RWw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\script.js",
+      "SourceId": "MiddlewareDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\",
+      "BasePath": "_content/MiddlewareDemo",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6udw57gf2v",
+      "Integrity": "8pCZCqbh+pf9MCwnA9hF+9Zuohj3ex58sTEHnPMUOdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\styles.css",
+      "SourceId": "MiddlewareDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\",
+      "BasePath": "_content/MiddlewareDemo",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wz1ysskd2f",
+      "Integrity": "nErUAAs7omo4JIAj11Gbz14S+xGXFptry253BvsG6+M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\ku9vxkjhzf-sbzmo7rd06.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004255319149"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NknrocfV5pv5k1SWPdQxKrqAKBn+vbcF1lVcQTa7RmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:14:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qB9GtXjOkiTXZyA8vFAqI2zwHwh31QIw2UINkuq/RWw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qB9GtXjOkiTXZyA8vFAqI2zwHwh31QIw2UINkuq/RWw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qB9GtXjOkiTXZyA8vFAqI2zwHwh31QIw2UINkuq/RWw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:14:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qB9GtXjOkiTXZyA8vFAqI2zwHwh31QIw2UINkuq/RWw="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\ku9vxkjhzf-sbzmo7rd06.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NknrocfV5pv5k1SWPdQxKrqAKBn+vbcF1lVcQTa7RmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:14:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NknrocfV5pv5k1SWPdQxKrqAKBn+vbcF1lVcQTa7RmA="
+        }
+      ]
+    },
+    {
+      "Route": "index.sbzmo7rd06.html",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\ku9vxkjhzf-sbzmo7rd06.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004255319149"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NknrocfV5pv5k1SWPdQxKrqAKBn+vbcF1lVcQTa7RmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:14:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qB9GtXjOkiTXZyA8vFAqI2zwHwh31QIw2UINkuq/RWw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sbzmo7rd06"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qB9GtXjOkiTXZyA8vFAqI2zwHwh31QIw2UINkuq/RWw="
+        }
+      ]
+    },
+    {
+      "Route": "index.sbzmo7rd06.html",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "345"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qB9GtXjOkiTXZyA8vFAqI2zwHwh31QIw2UINkuq/RWw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:14:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sbzmo7rd06"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qB9GtXjOkiTXZyA8vFAqI2zwHwh31QIw2UINkuq/RWw="
+        }
+      ]
+    },
+    {
+      "Route": "index.sbzmo7rd06.html.gz",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\ku9vxkjhzf-sbzmo7rd06.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NknrocfV5pv5k1SWPdQxKrqAKBn+vbcF1lVcQTa7RmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:14:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sbzmo7rd06"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NknrocfV5pv5k1SWPdQxKrqAKBn+vbcF1lVcQTa7RmA="
+        }
+      ]
+    },
+    {
+      "Route": "script.6udw57gf2v.js",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\7rao0jc5l4-6udw57gf2v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.014084507042"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wj0uCXvaooUciYWTRg/7Woy6HjQvAp2QbSnWnlHPons=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8pCZCqbh+pf9MCwnA9hF+9Zuohj3ex58sTEHnPMUOdg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6udw57gf2v"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8pCZCqbh+pf9MCwnA9hF+9Zuohj3ex58sTEHnPMUOdg="
+        }
+      ]
+    },
+    {
+      "Route": "script.6udw57gf2v.js",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8pCZCqbh+pf9MCwnA9hF+9Zuohj3ex58sTEHnPMUOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6udw57gf2v"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8pCZCqbh+pf9MCwnA9hF+9Zuohj3ex58sTEHnPMUOdg="
+        }
+      ]
+    },
+    {
+      "Route": "script.6udw57gf2v.js.gz",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\7rao0jc5l4-6udw57gf2v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wj0uCXvaooUciYWTRg/7Woy6HjQvAp2QbSnWnlHPons=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6udw57gf2v"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wj0uCXvaooUciYWTRg/7Woy6HjQvAp2QbSnWnlHPons="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\7rao0jc5l4-6udw57gf2v.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.014084507042"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wj0uCXvaooUciYWTRg/7Woy6HjQvAp2QbSnWnlHPons=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8pCZCqbh+pf9MCwnA9hF+9Zuohj3ex58sTEHnPMUOdg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8pCZCqbh+pf9MCwnA9hF+9Zuohj3ex58sTEHnPMUOdg="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8pCZCqbh+pf9MCwnA9hF+9Zuohj3ex58sTEHnPMUOdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8pCZCqbh+pf9MCwnA9hF+9Zuohj3ex58sTEHnPMUOdg="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\7rao0jc5l4-6udw57gf2v.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wj0uCXvaooUciYWTRg/7Woy6HjQvAp2QbSnWnlHPons=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wj0uCXvaooUciYWTRg/7Woy6HjQvAp2QbSnWnlHPons="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\z2ta87ue5o-wz1ysskd2f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.009615384615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pwb2sUfquE7iR+Fj2gXu0i/FoKeq1U99Wq2rfQroejg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nErUAAs7omo4JIAj11Gbz14S+xGXFptry253BvsG6+M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nErUAAs7omo4JIAj11Gbz14S+xGXFptry253BvsG6+M="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nErUAAs7omo4JIAj11Gbz14S+xGXFptry253BvsG6+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nErUAAs7omo4JIAj11Gbz14S+xGXFptry253BvsG6+M="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\z2ta87ue5o-wz1ysskd2f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pwb2sUfquE7iR+Fj2gXu0i/FoKeq1U99Wq2rfQroejg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pwb2sUfquE7iR+Fj2gXu0i/FoKeq1U99Wq2rfQroejg="
+        }
+      ]
+    },
+    {
+      "Route": "styles.wz1ysskd2f.css",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\z2ta87ue5o-wz1ysskd2f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.009615384615"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pwb2sUfquE7iR+Fj2gXu0i/FoKeq1U99Wq2rfQroejg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nErUAAs7omo4JIAj11Gbz14S+xGXFptry253BvsG6+M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wz1ysskd2f"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nErUAAs7omo4JIAj11Gbz14S+xGXFptry253BvsG6+M="
+        }
+      ]
+    },
+    {
+      "Route": "styles.wz1ysskd2f.css",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "90"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nErUAAs7omo4JIAj11Gbz14S+xGXFptry253BvsG6+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wz1ysskd2f"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nErUAAs7omo4JIAj11Gbz14S+xGXFptry253BvsG6+M="
+        }
+      ]
+    },
+    {
+      "Route": "styles.wz1ysskd2f.css.gz",
+      "AssetFile": "D:\\wipro project\\dotnet training session\\demo project\\day9 coding\\MiddlewareDemo\\obj\\Debug\\net9.0\\compressed\\z2ta87ue5o-wz1ysskd2f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pwb2sUfquE7iR+Fj2gXu0i/FoKeq1U99Wq2rfQroejg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Feb 2025 11:15:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wz1ysskd2f"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pwb2sUfquE7iR+Fj2gXu0i/FoKeq1U99Wq2rfQroejg="
+        }
+      ]
+    }
+  ]
+}

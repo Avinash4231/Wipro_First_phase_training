@@ -1,0 +1,29 @@
+﻿@page
+@model RazorPageExample.Pages.ServicesModel
+@{
+    ViewData["Title"] = "Services";
+}
+
+<h2>Our Services</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Service Name</th>
+            <th>Description</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var service in Model.Services)
+        {
+            <tr>
+                <td>@service.Id</td>
+                <td>@service.Name</td>
+                <td>@service.Description</td>
+                <td>@service.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>

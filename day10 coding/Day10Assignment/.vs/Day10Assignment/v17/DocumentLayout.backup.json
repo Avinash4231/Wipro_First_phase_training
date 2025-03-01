@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6BB91D-9B81-428C-A884-EFFC43DDD266}|Day10Assignment\\Day10Assignment.csproj|d:\\wipro project\\dotnet training session\\demo project\\day10 coding\\day10assignment\\day10assignment\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6BB91D-9B81-428C-A884-EFFC43DDD266}|Day10Assignment\\Day10Assignment.csproj|solutionrelative:day10assignment\\sample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6BB91D-9B81-428C-A884-EFFC43DDD266}|Day10Assignment\\Day10Assignment.csproj|d:\\wipro project\\dotnet training session\\demo project\\day10 coding\\day10assignment\\day10assignment\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6BB91D-9B81-428C-A884-EFFC43DDD266}|Day10Assignment\\Day10Assignment.csproj|solutionrelative:day10assignment\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA6BB91D-9B81-428C-A884-EFFC43DDD266}|Day10Assignment\\Day10Assignment.csproj|d:\\wipro project\\dotnet training session\\demo project\\day10 coding\\day10assignment\\day10assignment\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA6BB91D-9B81-428C-A884-EFFC43DDD266}|Day10Assignment\\Day10Assignment.csproj|solutionrelative:day10assignment\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F6D8A-8171-4195-8E71-015E25AD925A}|TestProject\\TestProject.csproj|d:\\wipro project\\dotnet training session\\demo project\\day10 coding\\day10assignment\\testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910F6D8A-8171-4195-8E71-015E25AD925A}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910F6D8A-8171-4195-8E71-015E25AD925A}|TestProject\\TestProject.csproj|d:\\wipro project\\dotnet training session\\demo project\\day10 coding\\day10assignment\\testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{910F6D8A-8171-4195-8E71-015E25AD925A}|TestProject\\TestProject.csproj|solutionrelative:testproject\\testproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\Day10Assignment\\ReportManager.cs",
+              "RelativeDocumentMoniker": "Day10Assignment\\ReportManager.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\Day10Assignment\\ReportManager.cs",
+              "RelativeToolTip": "Day10Assignment\\ReportManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:21:47.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestProject.csproj",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\TestProject\\TestProject.csproj",
+              "RelativeDocumentMoniker": "TestProject\\TestProject.csproj",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\TestProject\\TestProject.csproj",
+              "RelativeToolTip": "TestProject\\TestProject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-14T16:09:03.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\TestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestProject\\UnitTest1.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\TestProject\\UnitTest1.cs",
+              "RelativeToolTip": "TestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:07:39.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sample.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\Day10Assignment\\sample.cs",
+              "RelativeDocumentMoniker": "Day10Assignment\\sample.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\Day10Assignment\\sample.cs",
+              "RelativeToolTip": "Day10Assignment\\sample.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwEIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:06:14.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\Day10Assignment\\Class1.cs",
+              "RelativeDocumentMoniker": "Day10Assignment\\Class1.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day10 coding\\Day10Assignment\\Day10Assignment\\Class1.cs",
+              "RelativeToolTip": "Day10Assignment\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T16:04:02.928Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

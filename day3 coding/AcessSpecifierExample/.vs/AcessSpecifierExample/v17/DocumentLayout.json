@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\dotnet training session\\demo project\\day3 coding\\AcessSpecifierExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4937FF-7FEC-478B-816B-35E7B1FD1411}|AcessSpecifierExample\\AcessSpecifierExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day3 coding\\acessspecifierexample\\acessspecifierexample\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4937FF-7FEC-478B-816B-35E7B1FD1411}|AcessSpecifierExample\\AcessSpecifierExample.csproj|solutionrelative:acessspecifierexample\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFFFA6-7E0C-4A61-A9B5-4E7ED8E75E29}|ConsoleApp2\\ConsoleApp2.csproj|d:\\wipro project\\dotnet training session\\demo project\\day3 coding\\acessspecifierexample\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BBFFFA6-7E0C-4A61-A9B5-4E7ED8E75E29}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BBFFFA6-7E0C-4A61-A9B5-4E7ED8E75E29}|ConsoleApp2\\ConsoleApp2.csproj|d:\\wipro project\\dotnet training session\\demo project\\day3 coding\\acessspecifierexample\\consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7BBFFFA6-7E0C-4A61-A9B5-4E7ED8E75E29}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp2.csproj",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day3 coding\\AcessSpecifierExample\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day3 coding\\AcessSpecifierExample\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeToolTip": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-04T17:38:04.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day3 coding\\AcessSpecifierExample\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day3 coding\\AcessSpecifierExample\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:29:03.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day3 coding\\AcessSpecifierExample\\AcessSpecifierExample\\Class1.cs",
+              "RelativeDocumentMoniker": "AcessSpecifierExample\\Class1.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day3 coding\\AcessSpecifierExample\\AcessSpecifierExample\\Class1.cs",
+              "RelativeToolTip": "AcessSpecifierExample\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:16:20.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

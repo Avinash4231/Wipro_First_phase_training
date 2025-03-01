@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day4 coding\\collectionexample\\collectionexample\\stackqueueexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|solutionrelative:collectionexample\\stackqueueexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day4 coding\\collectionexample\\collectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|solutionrelative:collectionexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day4 coding\\collectionexample\\collectionexample\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|solutionrelative:collectionexample\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day4 coding\\collectionexample\\collectionexample\\hashexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|solutionrelative:collectionexample\\hashexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day4 coding\\collectionexample\\collectionexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|solutionrelative:collectionexample\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|d:\\wipro project\\dotnet training session\\demo project\\day4 coding\\collectionexample\\collectionexample\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{698C7928-73A0-46E6-B2E3-31ADEFD9EE00}|CollectionExample\\CollectionExample.csproj|solutionrelative:collectionexample\\arraylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StackQueueExample.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\StackQueueExample.cs",
+              "RelativeDocumentMoniker": "CollectionExample\\StackQueueExample.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\StackQueueExample.cs",
+              "RelativeToolTip": "CollectionExample\\StackQueueExample.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:13:59.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "question3.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\question3.cs",
+              "RelativeDocumentMoniker": "CollectionExample\\question3.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\question3.cs",
+              "RelativeToolTip": "CollectionExample\\question3.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:43:54.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\Program.cs",
+              "RelativeDocumentMoniker": "CollectionExample\\Program.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\Program.cs",
+              "RelativeToolTip": "CollectionExample\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAkwGwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:07:59.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HashExample.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\HashExample.cs",
+              "RelativeDocumentMoniker": "CollectionExample\\HashExample.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\HashExample.cs",
+              "RelativeToolTip": "CollectionExample\\HashExample.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T09:07:35.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\Student.cs",
+              "RelativeDocumentMoniker": "CollectionExample\\Student.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\Student.cs",
+              "RelativeToolTip": "CollectionExample\\Student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:57:03.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ArrayList.cs",
+              "DocumentMoniker": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\ArrayList.cs",
+              "RelativeDocumentMoniker": "CollectionExample\\ArrayList.cs",
+              "ToolTip": "D:\\wipro project\\dotnet training session\\demo project\\day4 coding\\CollectionExample\\CollectionExample\\ArrayList.cs",
+              "RelativeToolTip": "CollectionExample\\ArrayList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T06:40:01.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

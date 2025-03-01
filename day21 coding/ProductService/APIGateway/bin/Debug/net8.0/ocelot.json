@@ -1,0 +1,21 @@
+//Downstream : Microservice path
+//upstream : Gateway path
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/api/shopping/products",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5088
+        }
+      ],
+
+      "UpstreamPathTemplate": "/products",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+
+  ]
+
+}
